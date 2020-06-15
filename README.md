@@ -18,7 +18,33 @@ You will learn how HTML is used to define the content of a web page and start to
 ## Learning Concepts
 **Responsive Web Design**
 - Using classes with meaningful names in HTML for styling
+- Flexbox
+- Design Patterns
 
+**Optimisation**
+
+1 - Images
+
+* ##### To do
+
+    * [ ] Go through following links and optimise the portfolio
+        * [Google's developer resources](https://developers.google.com/web/fundamentals/design-and-ux/responsive/images)
+        * [Udacity Responsive Images](https://www.udacity.com/course/responsive-images--ud882)
+
+2 - Tables
+
+How to contain the tables in every viewport
+
+3 - Fonts
+
+4 - Major vs. Minor Breakpoints
+
+
+**Writing READMEs**
+- Importance of documenting your work
+
+**Licensing Your Software**
+- https://dev.to/graphqleditor/software-licensing-cheat-sheet-4joa
 
 ## Design Mockup
 This project has been developed initially based on the following [design mockup](https://storage.googleapis.com/supplemental_media/udacityu/2655898586/design-mockup-portfolio.pdf).
